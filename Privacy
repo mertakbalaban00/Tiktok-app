@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gizlilik Politikası</title>
+</head>
+<body>
+    <h1>Gizlilik Politikası</h1>
+    <p>Bu Gizlilik Politikası, uygulamamızın kullanıcı verilerini nasıl topladığını, kullandığını ve koruduğunu açıklar.</p>
+    
+    <h2>1. Toplanan Veriler</h2>
+    <p>Uygulama, TikTok API’si üzerinden canlı yayın hediyeleri gibi bilgileri toplar. Kullanıcıların TikTok hesap bilgileri yalnızca oturum açma işlemleri için kullanılmaktadır.</p>
+
+    <h2>2. Verilerin Kullanımı</h2>
+    <p>Toplanan veriler yalnızca uygulamanın işlevselliğini sağlamak amacıyla kullanılır. Veriler üçüncü taraflarla paylaşılmaz.</p>
+
+    <h2>3. Verilerin Saklanması</h2>
+    <p>Toplanan veriler, yalnızca uygulamanın çalıştığı süre boyunca saklanır. Kullanıcı tarafından oturum kapatıldığında veriler silinir.</p>
+
+    <h2>4. Çerezler</h2>
+    <p>Uygulama çerez kullanmamaktadır.</p>
+
+    <h2>5. Kullanıcı Hakları</h2>
+    <p>Kullanıcılar, verilerinin nasıl kullanıldığı hakkında bilgi alma ve gerektiğinde verilerinin silinmesini talep etme hakkına sahiptir.</p>
+
+    <h2>6. İletişim</h2>
+    <p>Gizlilik politikamız hakkında herhangi bir sorunuz varsa, lütfen <a href="mertakbalaban@gmail.com">mertakbalaban@gmail.com</a> adresinden bizimle iletişime geçin.</p>
+</body>
+</html>
