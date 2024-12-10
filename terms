@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hizmet Şartları</title>
+</head>
+<body>
+    <h1>Hizmet Şartları</h1>
+    <p>Bu Hizmet Şartları, uygulamamızın kullanımına ilişkin kuralları ve şartları içermektedir. Uygulamamızı kullanarak bu şartları kabul etmiş olursunuz.</p>
+    
+    <h2>1. Hizmetin Kullanımı</h2>
+    <p>Uygulama, TikTok API’sini kullanarak canlı yayınlarda gönderilen hediyeleri takip eder ve bir sayaç aracılığıyla gösterir. Hizmeti yalnızca belirtilen kurallara uygun şekilde kullanabilirsiniz.</p>
+
+    <h2>2. Kullanıcı Sorumlulukları</h2>
+    <p>Uygulamayı kullanırken, sağlanan API erişim bilgilerini kötüye kullanmamalısınız. Her türlü yasa dışı veya yetkisiz kullanım yasaktır.</p>
+
+    <h2>3. Fikri Mülkiyet Hakları</h2>
+    <p>Uygulama ve içeriği, tüm fikri mülkiyet haklarıyla korunmaktadır. Kopyalama veya yeniden dağıtım yasaktır.</p>
+
+    <h2>4. Hizmet Değişiklikleri</h2>
+    <p>Uygulama sahibinin, hizmeti önceden haber vermeksizin değiştirme veya sonlandırma hakkı saklıdır.</p>
+
+    <h2>5. İletişim</h2>
+    <p>Herhangi bir sorunuz için bize <a href="mailto:mertakbalaban@gmail.com">mertakbalaban@gmail.com</a> adresinden ulaşabilirsiniz.</p>
+</body>
+</html>
